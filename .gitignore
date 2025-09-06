@@ -1,0 +1,8 @@
+﻿/.vs/VSWorkspaceState.json
+.vs/
+*.suo
+*.user
+bin
+obj
+packages
+
